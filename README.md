@@ -18,16 +18,16 @@ For my research I developed and analyze agent-based models to understand the fou
 **Submitted articles**
 
 - A.S. Figueroa Alvarez, Marcus Weber, and Sarah Wolf, **Green Growth Meets Koopman: A Data-Driven Understanding of Economic Green Transitions in an Agent-Based Model**
-  - (https://zenodo.org/records/18671445) (2025)
+  - [Link to preprint](https://zenodo.org/records/18671445) (2025)
   - Code and data to accompany this paper can be founde [here](https://zenodo.org/records/18674656).
 
 - A.S. Figueroa Alvarez, and Sarah Wolf, **Belief dynamics and directed technical progress as drivers of a green transition? An agent-based exploration**
-  - (https://doi.org/10.5281/zenodo.14639433) (2025) 
+  - [Lint to preprint](https://doi.org/10.5281/zenodo.14639433) (2025) 
 
 **Working papers**
 
 - A.S.Figueroa Alvarez, and Sarah Wolf, **Exploring heterogeneity and expectations in technical progress – an exercise in agentization**,
-  - (https://doi.org/10.5281/zenodo.10654996) (2024)
+  - [Link to preprint](https://doi.org/10.5281/zenodo.10654996) (2024)
  
 
 
