@@ -1,6 +1,6 @@
 # Sarai Figueroa
 
-Welcome to my personal website! :)
+Welcome to my personal website! :) (It is still under construction)
 
 
 I’m currently completing my PhD in mathematics at the Freie Universität Berlin in the research group [Mathematics for Sustainability Transitions](https://www.mi.fu-berlin.de/en/math/groups/ag-math4susTrans/index.html) of Prof. Sarah Wolf.
