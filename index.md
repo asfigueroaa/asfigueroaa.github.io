@@ -5,7 +5,7 @@ Welcome to my personal website! :)
 
 I’m currently completing my PhD in mathematics at the Freie Universität Berlin in the research group [Mathematics for Sustainability Transitions](https://www.mi.fu-berlin.de/en/math/groups/ag-math4susTrans/index.html) of Prof. Sarah Wolf.
 
-For my current research I develop and analyze agent-based models to understand the foundations of the emergence of economic green transitions. 
+For my current research I develop and analyse agent-based models to understand how economies transition away from carbon-intensive pathways: what drives the shift, what creates bottlenecks, and what interventions might accelerate it. My work sits at the intersection of mathematics, economics, complexity and sustainability science, with the long-term goal of informing more effective climate and energy policy.
 
 ## Agent-Based Models
 
