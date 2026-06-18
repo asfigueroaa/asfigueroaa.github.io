@@ -30,5 +30,19 @@ For my current research I develop and analyse agent-based models to understand h
   - [Link to preprint](https://doi.org/10.5281/zenodo.10654996) (2024).
  
 
+## Recent and upcoming activities:
+
+- December 2025: **Belief dynamics and directed technical progress as drivers of a green transition? An agent-based exploration** @[Modelling Opinion Dynamics and Social Change Graz Schumpeter Winter School 2025 and COLIBRI Focus Workshop](https://schumpeter-centre.uni-graz.at/de/veranstaltungen/graz-schumpeter-winter-summer-school/gsws-2025/), *Graz, Austria*
+
+- July 2025: **Unravelling the Complexity of the Green Transition: Opinion Dynamics and Economic Processes in an Agent-Based Model** @ [ECO²STAT 2025 Decoding Complexity in Ecology and Economics: Statistical Physics & Data-Driven Approaches](https://www.agile-group.org/eco2stat2025/), *Cagliary, Italy*
+
+- February 2025: **An agent-based model for analysing mathematically an economic transition** @[13th Berlin Mathematical School (BMS) Student Conference}](https://bmsstudconf.github.io/2025/mobile.html), *Berlin, Germany*
+
+- July 2024: **An agent-based model for understanding driving mechanisms in green growth transitions** @[27th Annual Workshop on Economics with Heterogeneous Interacting Agents (WEHIA)](https://www.uni-bamberg.de/en/economics/research/wehia-2024/), *Bamberg, Germany*
+
+- February 2024: **Agent-Based Modeling of Green Growth: Unraveling Endogenous Technical Progress** @[12th Berlin Mathematical School (BMS) Student Conference](https://bmsstudconf.github.io/2024/mobile.html), *Berlin, Germany*
+
+ 
+
 
 
