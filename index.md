@@ -13,6 +13,7 @@ For my current research I develop and analyse agent-based models to understand h
 - [Agent-Based Ramsey growth model with endogenous technical progress (ABRam-T)](https://www.comses.net/codebases/0d2d9f03-e579-4d59-bd9a-35be1439f8ed/releases/1.1.0/) (February 2024)
 
 
+
 ## Publications 
 
 ### Submitted articles
@@ -30,7 +31,8 @@ For my current research I develop and analyse agent-based models to understand h
   - [Link to preprint](https://doi.org/10.5281/zenodo.10654996) (2024).
  
 
-## Recent and upcoming activities:
+
+## Recent and upcoming talks/conferences:
 
 - December 2025: **Belief dynamics and directed technical progress as drivers of a green transition? An agent-based exploration** @[Modelling Opinion Dynamics and Social Change Graz Schumpeter Winter School 2025 and COLIBRI Focus Workshop](https://schumpeter-centre.uni-graz.at/de/veranstaltungen/graz-schumpeter-winter-summer-school/gsws-2025/), *Graz, Austria*
 
